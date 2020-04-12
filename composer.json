@@ -9,7 +9,7 @@
 		"cli",
 		"doctrine"
 	],
-	"homepage" : "https://github.com/mysql-workbench-schema-exporter/doctrine2-exporter",
+	"homepage" : "https://github.com/ucsite/doctrine2-exporter",
 	"license" : "MIT",
 	"authors" : [{
 			"name" : "Johannes Mueller",
@@ -27,7 +27,7 @@
 	],
 	"require" : {
 		"php" : ">=5.4.0",
-		"mysql-workbench-schema-exporter/mysql-workbench-schema-exporter": "^3.0 || dev-master"
+		"ucsite/mysql-workbench-schema-exporter": "^3.0 || dev-master"
 	},
 	"autoload" : {
 		"psr-4" : {
